@@ -1,0 +1,1 @@
+matematika2.MatematikaInheritence
